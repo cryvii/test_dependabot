@@ -7,4 +7,4 @@ updates:
     directory: "/"           # Location of your pubspec.yaml file
     schedule:
       interval: "daily"
-      time: "07:27"          # Optional: Specify a time (UTC)
+      time: "07:31"          # Optional: Specify a time (UTC)
